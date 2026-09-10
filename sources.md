@@ -20,7 +20,11 @@
 ## Additional Sources
 - The Decoder — https://the-decoder.com — consistent high-quality AI coverage
 - HeadsUp AI — https://headsupai.io — good tool launch tracking
+- Agent Engineering — https://www.agent-engineering.ch — harness/memory architecture analysis
+- The Colony — https://thecolony.ai — memory-as-liability research coverage
 
 ## Self-expansion log
 - 2026-05-24 — The Decoder added because consistently detailed AI model/product coverage
 - 2026-05-24 — HeadsUp AI added because tracks new AI tool launches
+- 2026-09-10 — Agent Engineering added because harness-memory-lock-in analysis is core to Letta strategy
+- 2026-09-10 — The Colony added because MeClear paper (memory clearance) is key research signal

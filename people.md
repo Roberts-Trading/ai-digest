@@ -22,6 +22,9 @@
 - Gergely Orosz — Pragmatic Engineer, AI in engineering orgs
 - Alex Albert — Anthropic dev rel, Claude updates
 - Logan Kilpatrick — Google AI, developer advocacy
+- Evan Hubinger — Anthropic alignment researcher, extinction-risk warnings
+- Paul Christiano — OpenAI board member, US government tech adviser, catastrophic-risk warnings
 
 ## Self-expansion log
-- [Date] — [Name] added because [reason]
+- 2026-09-09 — Evan Hubinger added because extinction-risk warning from inside Anthropic
+- 2026-09-10 — Paul Christiano added because catastrophic-risk warning from inside OpenAI board
